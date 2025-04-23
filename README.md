@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Laura Zarate and I'm a Software Developer from Córdoba, Argentina</p>
+<p align="left">My name is Laura Zarate and I'm a Software Developer Student from Córdoba, Argentina</p>
 
 ###
 
